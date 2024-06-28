@@ -50,13 +50,13 @@ The following languages are supported because of the following community users!
 |Ukranian 🇺🇦 |[@gelosi](https://github.com/gelosi)|Japanese 🇯🇵|[@tatsuz0u](https://github.com/tatsuz0u)|
 |German 🇩🇪|[@drct](https://github.com/drct)|Dutch 🇳🇱|[@jfversluis](https://github/com/jfversluis)|
 |Brazilian Portuguese 🇧🇷|[@brunomunizaf](https://github.com/brunomunizaf)|Polish 🇵🇱|[@jakex7](https://github.com/jakex7)|
-|Catalan|[@ferranabello](https://github.com/ferranabello)|
+|Catalan|[@ferranabello](https://github.com/ferranabello)|Greek 🇬🇷|[@alladinian](https://github.com/alladinian)
 
 Want to add more languages? Simply create a PR with the updated strings file.
 
 ## Installation
-v1.X - requires MacOS 11 or newer
-v2.X - requires MacOS 13
+v1.X - requires macOS 11 or newer
+v2.X - requires macOS 13
 
 ### Install with Homebrew
 
